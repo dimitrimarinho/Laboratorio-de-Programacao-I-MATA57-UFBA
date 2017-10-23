@@ -5,7 +5,7 @@ Semestre 2017.1
 
 Profº Rubisley de Paula Lemes
 
-## Ementa da disciplina: 
+## Ementa da disciplina 
 
 	Estudo das linguagens C e C++ através da implementação de programas nestas linguagens.
 
