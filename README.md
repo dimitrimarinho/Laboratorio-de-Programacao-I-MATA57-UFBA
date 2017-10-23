@@ -7,6 +7,6 @@ Ementa da disciplina:
 
 	Estudo das linguagens C e C++ através da implementação de programas nestas linguagens.
 
-Links: https://alunoweb.ufba.br/SiacWWW/ExibirEmentaPublico.do?cdDisciplina=MATA57&nuPerInicial=20072
+Link para ementa: https://alunoweb.ufba.br/SiacWWW/ExibirEmentaPublico.do?cdDisciplina=MATA57&nuPerInicial=20072
 
 
