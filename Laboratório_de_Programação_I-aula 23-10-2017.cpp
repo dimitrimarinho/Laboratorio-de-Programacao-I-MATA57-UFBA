@@ -19,7 +19,7 @@ QUADRO 01 _
 
 	    (Forma de funcionamento do vector expressa abaixo)
 
-	   for (vector<int>::iteratorit= v.begin();it!=v.end();it++)
+	   for (vector<int>::iterator it= v.begin();it!=v.end();it++)
 		cout << *it << endl;
 	   v.erase(v.begin());			// Apaga o primeiro elemento do vetor 
 	   v.erase(v.begin()+2);		// Apaga o terceiro elemento do vetor
