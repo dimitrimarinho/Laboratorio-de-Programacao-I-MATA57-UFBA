@@ -1,2 +1,3 @@
-# Laborat-rio_de_Programa-o_i
+# Laboratório de Programação I
+
 Anotações de aula
