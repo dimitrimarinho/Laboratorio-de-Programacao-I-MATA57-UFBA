@@ -1,5 +1,5 @@
 # Laboratório de Programação I
-Profº Rubisley de Paula Lemes / Semestre 2017.1
+Profº Dr. Rubisley de Paula Lemes / Semestre 2017.1
 
 ## Ementa da disciplina 
 
