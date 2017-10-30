@@ -1,14 +1,17 @@
-QUADRO 01 _
+[QUADRO 01 _]
 
 	#include<iostream>
-	#include<vector>	// pra usar o vector precisa fazer o include
+	#include<vector>	
+	// Para usar vector é necessário fazer include da biblioteca <vector>
 	using namespace std;
 	int main(){
 		int vet[100];
-		vector<int> v;	// vector<int>v; Cria um vetor sem posição alguma , enquanto vector<int>v(100);  Cria um vetor inicial de 100 posições
+		vector<int> v;	
+		// ( vector<int> v ) : Cria um vetor sem posição alguma
+		// Enquanto ( vector<int> v(100) ) cria um vetor inicial de 100 posições
 		int num;
 		while (cin >> num, num != 0)
-			v.push_back(num); 	// Cria uma nova posição se o a variável num é diferente de 0 (insere elemento)
+			v.push_back(num); 	// Cria uma nova posição se a variável num é diferente de 0 (Insere elemento)
 	
 
 
@@ -28,18 +31,23 @@ QUADRO 01 _
 	
 	*/
 
-QUADRO 02 _
+[QUADRO 02 _]
 
 	#include<iostream>
 	#include<vector>
-	#include<algorithm>		// include para inserir os algoritmos de ordenação
+	#include<algorithm>		
+	// Para usar a ordenação sort/stable_sort é necessário fazer include da biblioteca <algorithm> 
 	int main(){
 		vector<int> v;
 		int num;
 		while(cin>>num)
 			v.push_back(num);
 		sort(v.begin(), v.end());
-		stable_sort(v.begin(), v.end());     // Ordenação estável, o que seria ? Ordenação de elementos em que não tem dado simples (int, double, float), caso queira ordenar structs, por exemplo. Struct não é um dado simples. Como ordenar os dados da struct ? É possível fazer um vector de struct. 
+		stable_sort(v.begin(), v.end());    
+	// Ordenação estável, o que seria ? 
+	// Ordenação de elementos em que não tem dado simples (int, double, float)
+	// Caso queira ordenar structs, por exemplo (Struct não é um dado simples) 
+	// Como ordenar os dados da struct ? É possível fazer um vector de struct 
 
 	}
 
@@ -61,7 +69,7 @@ QUADRO 02 _
 
 	*/
 
-QUADRO 03 _
+[QUADRO 03 _]
 
 	#include<iostream>
 	#include<vector>
@@ -75,7 +83,7 @@ QUADRO 03 _
 		cin >> num >> str;
 		aux.id = num;
 		aux.nome = str;
-		v.push_back(aux);   	// insere a variável aux do tipo dados no vetor
+		v.push_back(aux);   	// Insere a variável aux do tipo dados no vetor
 
 	}
 
