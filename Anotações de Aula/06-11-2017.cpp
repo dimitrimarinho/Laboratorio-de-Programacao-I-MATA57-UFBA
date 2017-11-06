@@ -1,6 +1,6 @@
 [Quadro 01_]
 
-	#include<iostream>
+  #include<iostream>
   #include<stack>
   using namespace std;
   int main(){
@@ -19,7 +19,7 @@
 
 [Quadro 02_]
 
-	#include<iostream>
+  #include<iostream>
   #include<queue>
   using namespace std;
   int main(){
