@@ -9,12 +9,13 @@ Link para ementa: https://alunoweb.ufba.br/SiacWWW/ExibirEmentaPublico.do?cdDisc
 
 ## Monitores da Disciplina (2017.2)
 
-	Lucas Moreira
+	Lucas Moreira Pires
 	
-		Email:
-		Whatsapp:
+		Email: moreiralucas@dcc.ufba.br
+		Whatsapp: (71) 9 9223 1941
 		
-	Bira
+	Ubiratan Correia Barbosa Neto
+	 
 		Email:
 		Whatsapp:
 		
