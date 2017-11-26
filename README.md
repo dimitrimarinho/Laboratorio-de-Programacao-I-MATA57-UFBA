@@ -12,7 +12,7 @@ Link para ementa: https://alunoweb.ufba.br/SiacWWW/ExibirEmentaPublico.do?cdDisc
 	Lucas Moreira Pires
 	
 		Email: moreiralucas@dcc.ufba.br
-		Whatsapp: (71) 9 9223 1941
+		Telefone: (71) 9 9223 1941 (Whatsapp)
 		
 	Ubiratan Correia Barbosa Neto
 	 
