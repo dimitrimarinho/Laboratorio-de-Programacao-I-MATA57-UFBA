@@ -10,12 +10,16 @@ Link para ementa: https://alunoweb.ufba.br/SiacWWW/ExibirEmentaPublico.do?cdDisc
 ## Monitores da Disciplina (2017.2)
 
 	Lucas Moreira
+	
 		Email:
 		Whatsapp:
+		
 	Bira
 		Email:
 		Whatsapp:
+		
 	Rafael Brasileiro
+	
 		Email:
 		Whatsapp:
 	
