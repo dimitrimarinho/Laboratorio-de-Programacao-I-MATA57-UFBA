@@ -21,7 +21,7 @@ Link para ementa: https://alunoweb.ufba.br/SiacWWW/ExibirEmentaPublico.do?cdDisc
 		
 	Rafael Brasileiro
 	
-		Email: rafaelbrasileira@dcc.ufba.br
+		Email: rafaelbrasileiro@dcc.ufba.br
 		Whatsapp:
 	
 ## Materiais para estudo
