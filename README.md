@@ -14,15 +14,9 @@ Link para ementa: https://alunoweb.ufba.br/SiacWWW/ExibirEmentaPublico.do?cdDisc
 		Email: moreiralucas@dcc.ufba.br
 		Telefone: (71) 9 9223 1941 (Whatsapp)
 		
-	Ubiratan Correia Barbosa Neto
-	 
-		Email:
-		Whatsapp:
-		
 	Rafael Brasileiro
 	
 		Email: rafaelbrasileiro@dcc.ufba.br
-		Whatsapp:
 	
 ## Materiais para estudo
 
