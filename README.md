@@ -20,7 +20,7 @@ Link para ementa: https://alunoweb.ufba.br/SiacWWW/ExibirEmentaPublico.do?cdDisc
 	
 ## Materiais para estudo
 
-Slides de aula: 
-		https://drive.google.com/drive/folders/0BzZUxPOCd4GuMDhwdGRsdmpyX3M
-		https://drive.google.com/open?id=1vvAXntqWK0sUVYH8TqZz8EEHHQ1Ho4BW
+Slides de aula:
+(link 1) https://drive.google.com/drive/folders/0BzZUxPOCd4GuMDhwdGRsdmpyX3M
+(link 2) https://drive.google.com/open?id=1vvAXntqWK0sUVYH8TqZz8EEHHQ1Ho4BW
 
